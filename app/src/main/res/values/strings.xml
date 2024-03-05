@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile Serv</string>
+    <string name="main_button_text">Бэримор!</string>
+    <string name="edit_text_hint">Сэр?</string>
+</resources>
